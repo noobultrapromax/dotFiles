@@ -1,1 +1,2 @@
 # dotFiles
+> files in `~/.config/` 
